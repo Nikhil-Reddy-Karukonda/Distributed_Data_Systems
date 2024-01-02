@@ -53,8 +53,8 @@ Rest APIs that can handle any structured data in JSON format, emphasizing advanc
 
 ## Setup and Execution Steps 🚀
 
-### Elasticsearch and Kibana 📊
 ```bash
+Elasticsearch and Kibana 📊
 # Start Elasticsearch
 cd elasticsearch-7.17.15/
 ./bin/elasticsearch
@@ -75,7 +75,7 @@ RabbitMQ 📬
 brew services start rabbitmq
 # Access RabbitMQ at http://localhost:15672/#/
 
-Application Run Steps 💻
+NodeJS Application Run Steps 💻
 # Install dependencies
 npm install
 
